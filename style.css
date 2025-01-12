@@ -1,0 +1,75 @@
+body {
+    margin: 0px;
+    box-sizing: border-box;
+    padding: 0%;
+}
+
+.feature {
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin:0;
+    padding:0;
+}
+
+header {
+    background: #5965d3;
+    height: 100px;;
+}
+
+
+.ocean {
+    background-image: url('https://t3.ftcdn.net/jpg/01/34/53/74/360_F_134537443_VendrqyXIWyHrZgxdIsfyKUost734JDP.jpg');
+    text-align: center;
+}
+
+.fish {
+    background-image: url('https://th.bing.com/th/id/OIP.poar9Mmdvz4QvFG0sEUAAQHaE8?rs=1&pid=ImgDetMain');
+    text-align: center;
+}
+
+.giftshop {
+    background-image: url('https://wallup.net/wp-content/uploads/2018/10/08/661395-underwater-fish-fishes-ocean-sea-tropical-reef.jpg');
+    text-align: center;
+}
+
+.subheading {
+    font-size: 60px;
+}
+
+nav {
+    text-align: center;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    background: #5965d3;
+}
+
+nav logo {
+    font: xx-large;
+}
+
+nav li {
+    display: inline-block;
+    margin-left: 70px;
+    padding-top: 23px;
+}
+
+nav a {
+    color: #000000;
+    font-size: xx-large;
+    font: bold;
+}
+
+nav a:hover {
+    color: #000;
+}
+
+.bottom {
+    background: #5965d3;
+    text-align: center;
+}
